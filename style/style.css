@@ -13,7 +13,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #b449a2;
+	color: #fff;
 }
 .contenedor {
 	width: 90%;
@@ -139,6 +139,7 @@ nav .enlaces-header a {
 }
 .titulo {
 	font-size: 50px;
+	color: #b449a2;
 }
 .about-us {
 	background: #f2f2f2;
@@ -151,7 +152,7 @@ nav .enlaces-header a {
 }
 .articulo {
 	width: 29%;
-	background: #fff;
+	background: #5d6678;
 	margin-bottom: 30px;
 	border-radius: 10px;
 	padding: 45px 30px 60px 30px;
@@ -177,12 +178,12 @@ nav .enlaces-header a {
 }
 .articulo > p {
 	font-weight: 100;
-	color: #5d6678;
+	color: #fff;
 	margin-top: 15px;
 	padding-top: 20px;
 }
 .articulo > a {
-	color: #5d6678;
+	color: #fff;
 	font-weight: 400;
 	text-decoration: none;
 }
@@ -337,7 +338,7 @@ a {
 	display: inline-block;
 	border: 1px solid #fff;
 	padding: 10px 0;
-	width: 120px;
+	width: 200px;
 	text-align: center;
 	border-radius: 5px;
 }
@@ -354,7 +355,7 @@ a {
 }
 .box-skills h4 {
 	font-size: 24px;
-	background: #f2f2f2;
+	background: #666363;
 	width: 350px;
 	border-radius: 6px;
 	padding: 10px 0 10px 15px;
